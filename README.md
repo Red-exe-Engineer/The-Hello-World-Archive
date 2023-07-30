@@ -1,6 +1,6 @@
 # The Hello World Archive
 
-Welcome to The Hello World Archive! This is a collection of "hello world" programs in different programming languages. A "hello world" program is a simple program that outputs the text "Hello, world!" to the console or screen, and it is often used as a basic introduction to a programming language.
+Welcome to The Hello World Archive! This is a collection of "hello world" programs in different programming languages. A "hello world" program is a simple program that outputs the text "Hello, world!" to the console or screen, it's often used as a basic introduction to a programming language.
 
 ## Contributing
 
